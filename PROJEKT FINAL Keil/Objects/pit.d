@@ -1,0 +1,9 @@
+.\objects\pit.o: pit.c
+.\objects\pit.o: D:\programs\KAIL\PACKS\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL05Z4.h
+.\objects\pit.o: D:\programs\KAIL\PACKS\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h
+.\objects\pit.o: D:\programs\KAIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pit.o: D:\programs\KAIL\PACKS\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\pit.o: D:\programs\KAIL\PACKS\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\pit.o: D:\programs\KAIL\PACKS\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\pit.o: D:\programs\KAIL\PACKS\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\system_MKL05Z4.h
+.\objects\pit.o: pit.h
