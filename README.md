@@ -1,4 +1,4 @@
-# TMp2_project
+# Controler for Unity game - project for Microprocessor Technology 2
 
 
 ENG: 
